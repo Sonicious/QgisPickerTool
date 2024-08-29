@@ -4,10 +4,10 @@ This tool is a QGis plugin that allows to select a region of interest in a QGis 
 
 ## Credits
 
-Dr. Martin Reinhardt
+Dr. Martin Reinhardt<br>
 postdoctoral researcher
 
-Earth System Data Science
-Remote Sensing Centre for Earth System Research (RSC4Earth)
-Institute of Geophysics and Geology
+Earth System Data Science<br>
+Remote Sensing Centre for Earth System Research (RSC4Earth)<br>
+Institute of Geophysics and Geology<br>
 Leipzig University
