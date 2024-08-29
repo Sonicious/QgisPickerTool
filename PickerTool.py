@@ -32,6 +32,7 @@ class PickerTool(QgsMapTool):
             self.update_square()
         else:
             self.print_utm_json()
+            self.print_coordinates()
 
     def canvasMoveEvent(self, event):
         if self.is_pressed:
